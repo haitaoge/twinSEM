@@ -1,5 +1,5 @@
 # twinSEM
-twin SEM on R package OpenMx 
+twin modeling on package OpenMx 
 
 ### what's the data?
 - three groups: MZ, DZ/bio sibs, Adoptees
@@ -34,7 +34,7 @@ to be added:
 - common pathway ACE with rater bias paths
 - bivariate sib interaction
 
-note: when i name functions 'path' they're just cholesky decompositions
+note: named functions 'path' are just cholesky decompositions
 
 
 
