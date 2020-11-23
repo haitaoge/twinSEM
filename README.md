@@ -14,7 +14,6 @@ twin modeling on package OpenMx
 control regressions:
 - regressed out age and sex and saved resids 
   - whether log(item) ~ age + sex or item ~ age + sex depends on above
-- items with 'r' after name (ie con14msr) means they've had age/sex regressed out
 
 ### model fun stuff:
 - possibile to fit ACE (two/three), ADE (two/three), ACDE (three) 
